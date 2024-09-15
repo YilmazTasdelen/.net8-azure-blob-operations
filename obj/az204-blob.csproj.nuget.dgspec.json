@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\az204-blob.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\az204-blob.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\az204-blob.csproj",
+        "projectName": "az204-blob",
+        "projectPath": "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\az204-blob.csproj",
+        "packagesPath": "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yilmaz.tasdelen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {},
+          "https://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Azure.Storage.Blobs": {
+              "target": "Package",
+              "version": "[12.21.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

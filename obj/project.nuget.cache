@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mrj+Rk9mCIVfO3kIqflbaGdYZlwk6iQ+daNqOEl7fDaB55pbRHY563kil7wkXsDbA/TMcxeat9Bol7S91P0SSA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yilmaz.tasdelen\\source\\repos\\azure-blob-exercise\\az204-blob\\az204-blob.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\azure.core\\1.41.0\\azure.core.1.41.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\azure.storage.blobs\\12.21.2\\azure.storage.blobs.12.21.2.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\azure.storage.common\\12.20.1\\azure.storage.common.12.20.1.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.io.hashing\\6.0.0\\system.io.hashing.6.0.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.memory.data\\1.0.2\\system.memory.data.1.0.2.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\yilmaz.tasdelen\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://www.nuget.org/api/v2/'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
